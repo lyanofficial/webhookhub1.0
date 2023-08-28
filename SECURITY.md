@@ -17,3 +17,6 @@ macOS 11 ✕
 macOS 10 ✕
 macOS 9 ✕
 ----------
+linux
+---------
+kali linux (pas sur?) 
